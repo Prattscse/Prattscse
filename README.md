@@ -177,8 +177,7 @@
 
   <br/><br/>
 
-  <img width="95%" src="https://ghchart.rshah.org/FE428E/Prattscse" alt="Contribution calendar"/>
-
+ 
 </div>
 
 ---
